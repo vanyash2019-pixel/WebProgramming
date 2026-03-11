@@ -68,10 +68,19 @@ YouTube playlist
 ### CV (this project)
 - GitHub: https://github.com/vanyash2019-pixel/WebProgramming
 - Technologies: Markdown, Git, GitHub Pages
+  
+---
+
+## 🎯 Goals
+- Improve my skills in C# and backend development  
+- Learn modern web technologies  
+- Work on real projects and gain practical experience  
+- Become a confident full‑stack developer
+  
+---
 
 ## 💻 Code Example (C#)
 
----
 
 ```csharp
 using System;
