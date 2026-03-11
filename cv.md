@@ -64,7 +64,14 @@ YouTube playlist
 
 ---
 
+## 📂 Projects
+### CV (this project)
+- GitHub: https://github.com/vanyash2019-pixel/WebProgramming
+- Technologies: Markdown, Git, GitHub Pages
+
 ## 💻 Code Example (C#)
+
+---
 
 ```csharp
 using System;
